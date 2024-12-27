@@ -4,9 +4,9 @@
 
 This is another way mainly used i corporate space.In this in one single file we create a context, create a provider and also a custom hook to use the context.
 
-<hr>
+
 **Note : In this Tailwind css plays a lead role, so please dont forget to add below code in tailwind.config.js.**
-<hr>
+
 
 ```javascript
 /** @type {import('tailwindcss').Config} */
